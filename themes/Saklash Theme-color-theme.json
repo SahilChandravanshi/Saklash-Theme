@@ -2,10 +2,36 @@
 	"name": "Saklash Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+
+		"editor.background": "#222222",
+    "editor.foreground": "#eeffff",
+    "editor.selectionBackground": "#535353",
+    "editor.selectionHighlightBackground": "#535353",
+    "editor.wordHighlightBackground": "#535353",
+    "editorCursor.foreground": "#FFCB6B",
+    // "editorGutter.background": "#1f2023",
+    // "editorIndentGuide.background": "#2f3033",
+    // "editorLineNumber.foreground": "#43474c",
+    // "editorLink.activeForeground": "#999",
+    // "editor.lineHighlightBackground": "#282b31",
+    // "editor.lineHighlightBorder": "#1f2023",
+    // "editorWarning.foreground": "#e6844f",
+    // "editorError.foreground": "#E03C8A",
+    // "editor.findMatchHighlightBackground": "#2c5a65",
+    // "editor.findRangeHighlightBackground": "#2c5a65",
+    // "editor.findMatchBorder": "#bcb28d66",
+
+		// statusBar
+    "statusBar.background": "#1A1A1A",
+    "statusBar.border": "#1a1919",
+    "statusBar.foreground": "#CFCCCC",
+    "statusBar.debuggingBackground": "#8272a5",
+    "statusBar.debuggingForeground": "#1f2023",
+    "statusBar.noFolderBackground": "#333333",
+    "statusBar.noFolderForeground": "#bcb28d",
+
 	},
 	"tokenColors": [
 		{
