@@ -1,6 +1,6 @@
 <h1 align="center">Saklash Theme</h1>
 <p align="center">
-  <img alt="icon" width="20%" src="">
+  <img alt="icon" width="20%" src="https://github.com/SahilChandravanshi/Saklash-Theme/blob/main/icon.png">
 </p>
 
 A simple and friendly vscode theme.
@@ -10,11 +10,11 @@ A simple and friendly vscode theme.
 - [x] Friendly highlighting.
 
 <p align="center">
-  <img alt="saklash-theme-snap" width="80%" src="">
+  <img alt="saklash-theme(soothing)-snap" width="80%" src="https://github.com/SahilChandravanshi/Saklash-Theme/blob/main/Snap-2.png">
 </p>
 
 <p align="center">
-  <img alt="saklash-theme-snap" width="80%" src="">
+  <img alt="saklash-theme(default)-snap" width="80%" src="https://github.com/SahilChandravanshi/Saklash-Theme/blob/main/Snap-1.png">
 </p>
 
 The theme base on [vscode theme-defaults]().
