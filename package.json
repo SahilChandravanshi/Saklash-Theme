@@ -1,26 +1,51 @@
 {
-    "name": "saklash-theme",
-    "displayName": "Saklash-Theme",
-    "description": "The Vscode theme you will ever need",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.62.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Saklash Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Saklash Theme-color-theme.json"
-            },
-            {
-                "label": "Saklash Theme (Soothing) ",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Saklash Theme (soothing)-color-theme.json"
-            }
-        ]
-    }
+  "name": "saklash-theme",
+  "displayName": "Saklash-Theme",
+  "description": "The Vscode theme you will ever need! And the theme which Vscode will ever need!.",
+  "license": "MIT",
+  "publisher": "Sahil Chandravanhi",
+  "author": {
+    "name": "Sahil Chandravanshi"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SahilChandravanshi/Saklash-Theme"
+  },
+  "bugs": {
+    "url": "https://github.com/SahilChandravanshi/Saklash-Theme/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "eye soothing",
+    "Dark Theme",
+    "VSCode theme",
+    "saklash",
+    "saklash theme",
+    "blue",
+    "orange",
+    "Cobalt",
+    "sahil chandravanshi"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Saklash Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Saklash Theme-color-theme.json"
+      },
+      {
+        "label": "Saklash Theme (Soothing) ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Saklash Theme (soothing)-color-theme.json"
+      }
+    ]
+  }
 }
