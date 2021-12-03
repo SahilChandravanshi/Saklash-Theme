@@ -1,7 +1,7 @@
 {
     "name": "saklash-theme",
     "displayName": "Saklash-Theme",
-    "description": "",
+    "description": "The Vscode theme you will ever need",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.62.0"
@@ -15,6 +15,11 @@
                 "label": "Saklash Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Saklash Theme-color-theme.json"
+            },
+            {
+                "label": "Saklash Theme (Soothing) ",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Saklash Theme (soothing)-color-theme.json"
             }
         ]
     }
