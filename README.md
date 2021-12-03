@@ -21,7 +21,7 @@ The theme base on [vscode theme-defaults]().
 
 ## In preview
 
-The font in preview is [FiraCode]() and [Dank Mono]()
+The font in preview is [FiraCode](https://github.com/tonsky/FiraCode) 
 
 ## Other
 
