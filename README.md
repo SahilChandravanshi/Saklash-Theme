@@ -3,7 +3,7 @@
   <img alt="icon" width="35%" src="https://github.com/SahilChandravanshi/Saklash-Theme/blob/main/icon.png">
 </p>
 
-A simple and friendly vscode theme.
+A friendly vscode theme which you will ever need! Give it a try!
 
 - [x] Default theme + Eye soothing theme.
 - [x] For long time coding.
