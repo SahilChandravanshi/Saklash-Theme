@@ -81,7 +81,7 @@
 
     // activityBar
     "activityBar.background": "#1f2023",
-    "activityBar.border": "#1F2023",
+    "activityBar.border": "#393A3D",
     "activityBar.foreground": "#bcb28d",
     "activityBarBadge.background": "#424852",
 
