@@ -2,8 +2,14 @@
 
 All notable changes to the "Saklash-Theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.1.1
 
-## [Unreleased]
+- soon
+
+## 0.1.1
+
+- minor color changes
+
+## 0.0.1
 
 - Initial release
