@@ -9,16 +9,22 @@ A simple and friendly vscode theme.
 - [x] For long time coding.
 - [x] Friendly highlighting.
 
-<p align="center">
-  <img alt="saklash-theme(soothing)-snap" width="80%" src="https://github.com/SahilChandravanshi/Saklash-Theme/blob/main/Snap-2.png">
-</p>
+## Theme Previews
+
+- Theme 1 : Saklash Theme (Soothing) 
 
 <p align="center">
-  <img alt="saklash-theme(default)-snap" width="80%" src="https://github.com/SahilChandravanshi/Saklash-Theme/blob/main/Snap-1.png">
+  <img alt="saklash-theme(soothing)-snap" width="80%" src="https://github.com/SahilChandravanshi/Saklash-Theme/blob/main/sooth.png">
+</p>
+
+- Theme 2 : Saklash Theme (Default)
+
+<p align="center">
+  <img alt="saklash-theme(default)-snap" width="80%" src="https://github.com/SahilChandravanshi/Saklash-Theme/blob/main/default.png">
 </p>
 
 
-## In preview
+## In Preview 
 
 The font in preview is [FiraCode](https://github.com/tonsky/FiraCode) 
 
