@@ -1,6 +1,6 @@
 <h1 align="center">Saklash Theme</h1>
 <p align="center">
-  <img alt="icon" width="35%" src="https://github.com/SahilChandravanshi/Saklash-Theme/blob/main/icon.png">
+  <img alt="icon" width="35%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/icon.png">
 </p>
 
 A friendly vscode theme which you will ever need! Give it a try!
@@ -14,13 +14,13 @@ A friendly vscode theme which you will ever need! Give it a try!
 - Theme 1 : Saklash Theme (Soothing) 
 
 <p align="center">
-  <img alt="saklash-theme(soothing)-snap" width="80%" src="https://github.com/SahilChandravanshi/Saklash-Theme/blob/main/sooth.png">
+  <img alt="saklash-theme(soothing)-snap" width="80%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/sooth.png">
 </p>
 
 - Theme 2 : Saklash Theme (Default)
 
 <p align="center">
-  <img alt="saklash-theme(default)-snap" width="80%" src="https://github.com/SahilChandravanshi/Saklash-Theme/blob/main/default.png">
+  <img alt="saklash-theme(default)-snap" width="80%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/default.png">
 </p>
 
 
