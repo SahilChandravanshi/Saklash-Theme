@@ -2,17 +2,23 @@
 
 All notable changes to the "Saklash-Theme" extension will be documented here. 
 
-## 0.1.3
+## 1.0.0
 
-- soon
+- Light themes will be added soon
+
+## 0.2.0
+
+- Terminal colors made better
+- Soothing theme menu border issue solved
+- Default theme overview bar color changed
 
 ## 0.1.2
 
-- sidebar border color for soothing theme fixed
+- Sidebar border color for soothing theme fixed
 
 ## 0.1.1
 
-- minor color changes
+- Minor color changes
 
 ## 0.0.1
 
