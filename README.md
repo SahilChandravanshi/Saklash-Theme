@@ -11,7 +11,7 @@ A friendly vscode theme which you will ever need! Give it a try!
 
 ## Theme Previews
 
-- Theme 1 : Saklash Theme (Soothing) 
+- Theme 1 : Saklash Theme (Soothing)
 
 <p align="center">
   <img alt="saklash-theme(soothing)-snap" width="80%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/soothingTheme.png">
@@ -23,10 +23,17 @@ A friendly vscode theme which you will ever need! Give it a try!
   <img alt="saklash-theme(default)-snap" width="80%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/defaultTheme.png">
 </p>
 
+## Install
 
-## In Preview 
+- Open Extensions sidebar panel in Visual Studio Code. View → Extensions
+- Search for Saklash-Theme
+- Click Install
+- Click Reload (If asked!)
+- File > Preferences > Color Theme > Saklash Theme or Saklash Theme (Soothing)
 
-The font in preview is [FiraCode](https://github.com/tonsky/FiraCode) 
+## In Preview
+
+The font in preview is [FiraCode](https://github.com/tonsky/FiraCode)
 
 ## Other
 
