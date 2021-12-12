@@ -45,6 +45,11 @@
         "label": "Saklash Theme (Soothing) ",
         "uiTheme": "vs-dark",
         "path": "./themes/Saklash Theme (soothing)-color-theme.json"
+      },
+      {
+        "label": "Saklash Theme (Gunmetal-Soothing) ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Saklash Theme (gunmetal soothing)-color-theme.json"
       }
     ]
   }
