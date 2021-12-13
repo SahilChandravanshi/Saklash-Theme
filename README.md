@@ -1,6 +1,6 @@
 <h1 align="center">Saklash Theme</h1>
 <p align="center">
-  <img alt="icon" width="25%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/IconSaThe.png">
+  <img alt="icon" width="20%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/IconSaTh.png">
 </p>
 
 A friendly vscode theme which you will ever need! Give it a try!
