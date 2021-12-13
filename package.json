@@ -7,7 +7,7 @@
   "author": {
     "name": "Sahil Chandravanshi"
   },
-  "version": "0.2.3",
+  "version": "0.2.4",
   "engines": {
     "vscode": "^1.62.0"
   },
@@ -33,7 +33,7 @@
     "sahil chandravanshi",
     "theme saklash"
   ],
-  "icon": "IconSaTh.png",
+  "icon": "IconSaThem.png",
   "contributes": {
     "themes": [
       {
