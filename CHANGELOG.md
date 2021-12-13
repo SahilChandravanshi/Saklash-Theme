@@ -6,7 +6,11 @@ All notable changes to the "Saklash-Theme" extension will be documented here.
 
 - Light themes will be added soon
 
-### 0.2.1
+## 0.2.2
+
+- Terminal colors fixed
+
+## 0.2.1
 
 - The new logo
 
