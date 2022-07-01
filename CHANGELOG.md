@@ -2,13 +2,17 @@
 
 All notable changes to the "Saklash-Theme" extension will be documented here. 
 
+## 1.0.1
+
+- Saklash Theme (Plain) terminal cursor color fixed
+
 ## 1.0.0
 
 - New theme added : Saklash Theme (GunMetal) 
 
 ## 0.2.4
 
-- GIT colors are made batter
+- GIT colors are made better
 
 ## 0.2.3
 
