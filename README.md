@@ -33,7 +33,7 @@ A friendly vscode theme which you will ever need! Give it a try!
 - Search for Saklash-Theme
 - Click Install
 - Click Reload (If asked!)
-- File > Preferences > Color Theme > Saklash Theme or Saklash Theme (Soothing)
+- File > Preferences > Color Theme > Saklash Theme (Plain) or Saklash Theme (Soothing) or Saklash Theme (GunMetal)
 
 ## In Preview
 

@@ -156,7 +156,7 @@
     "terminal.foreground": "#cccccc",
     "terminal.selectionBackground": "#5353534c",
     "terminalCursor.background": "#ffcb6b",
-    "terminalCursor.foreground": "#1a1a1a",
+    "terminalCursor.foreground": "#535353",
     "terminal.border": "#6f7676",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#2b7ed9",
