@@ -14,17 +14,17 @@ A friendly vscode theme which you will ever need! Give it a try!
 - Theme 1 : Saklash Theme (Soothing)
 
 <p align="center">
-  <img alt="saklash-theme(soothing)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/SoothingTHE.png">
+  <img alt="saklash-theme(soothing)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/SoothingPrev.png">
 </p>
 
 - Theme 2 : Saklash Theme (GunMetal)
 <p align="center">
-  <img alt="saklash-theme(default)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/GunMetal.png">
+  <img alt="saklash-theme(GunMetal)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/GunMetalPrev.png">
 </p>
 
 - Theme 3 : Saklash Theme (Plain)
 <p align="center">
-  <img alt="saklash-theme(default)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Plain.png">
+  <img alt="saklash-theme(Plain)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/PlainPrev.png">
 </p>
 
 ## Install
