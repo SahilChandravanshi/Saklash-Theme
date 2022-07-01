@@ -5,7 +5,7 @@
 
 A friendly vscode theme which you will ever need! Give it a try!
 
-- [x] Default theme + Eye soothing theme.
+- [x] Three Themes - (Soothing, Plain, GunMetal)
 - [x] For long time coding.
 - [x] Friendly highlighting.
 
@@ -33,7 +33,7 @@ A friendly vscode theme which you will ever need! Give it a try!
 
 ## In Preview
 
-The font in preview is [FiraCode](https://github.com/tonsky/FiraCode)
+The font in preview is [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
 ## Other
 

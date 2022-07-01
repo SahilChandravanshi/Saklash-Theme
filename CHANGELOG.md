@@ -4,7 +4,7 @@ All notable changes to the "Saklash-Theme" extension will be documented here.
 
 ## 1.0.0
 
-- Light themes will be added soon
+- New theme added : Saklash Theme (GunMetal) 
 
 ## 0.2.4
 
