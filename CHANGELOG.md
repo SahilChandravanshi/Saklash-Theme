@@ -2,6 +2,10 @@
 
 All notable changes to the "Saklash-Theme" extension will be documented here. 
 
+## 2.0.0
+
+- New theme added : Saklash Theme (Oceanic)
+
 ## 1.0.1
 
 - Saklash Theme (Plain) terminal cursor color fixed
