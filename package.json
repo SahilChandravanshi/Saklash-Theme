@@ -1,56 +1,61 @@
 {
-  "name": "saklash-theme",
-  "displayName": "Saklash-Theme",
-  "description": "The Vscode theme you will ever need! And the theme which Vscode will ever need!.",
-  "license": "MIT",
-  "publisher": "SahilChandravanshi",
-  "author": {
-    "name": "Sahil Chandravanshi"
-  },
-  "version": "1.0.1",
-  "engines": {
-    "vscode": "^1.62.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/SahilChandravanshi/Saklash-Theme"
-  },
-  "bugs": {
-    "url": "https://github.com/SahilChandravanshi/Saklash-Theme/issues"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "theme",
-    "eye soothing",
-    "Dark Theme",
-    "VSCode theme",
-    "saklash",
-    "saklash theme",
-    "blue",
-    "Cobalt",
-    "sahil chandravanshi",
-    "theme saklash"
-  ],
-  "icon": "IconSaThem.png",
-  "contributes": {
-    "themes": [
-      {
-        "label": "Saklash Theme (Soothing) ",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Saklash Theme (soothing)-color-theme.json"
-      },
-      {
-        "label": "Saklash Theme (GunMetal)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Saklash Theme (gunmetal)-color-theme.json"
-      },
-      {
-        "label": "Saklash Theme (Plain)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Saklash Theme-color-theme.json"
-      }
-    ]
-  }
+	"name": "saklash-theme",
+	"displayName": "Saklash-Theme",
+	"description": "The Vscode theme you will ever need! And the theme which Vscode will ever need!.",
+	"license": "MIT",
+	"publisher": "SahilChandravanshi",
+	"author": {
+		"name": "Sahil Chandravanshi"
+	},
+	"version": "1.0.1",
+	"engines": {
+		"vscode": "^1.62.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SahilChandravanshi/Saklash-Theme"
+	},
+	"bugs": {
+		"url": "https://github.com/SahilChandravanshi/Saklash-Theme/issues"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"eye soothing",
+		"Dark Theme",
+		"VSCode theme",
+		"saklash",
+		"saklash theme",
+		"blue",
+		"Cobalt",
+		"sahil chandravanshi",
+		"theme saklash"
+	],
+	"icon": "IconSaThem.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Saklash Theme (Soothing) ",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Saklash Theme (soothing)-color-theme.json"
+			},
+			{
+				"label": "Saklash Theme (GunMetal)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Saklash Theme (gunmetal)-color-theme.json"
+			},
+			{
+				"label": "Saklash Theme (Oceanic)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Saklash Theme (oceanic)-color-theme.json"
+			},
+			{
+				"label": "Saklash Theme (Plain)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Saklash Theme-color-theme.json"
+			}
+		]
+	}
 }
