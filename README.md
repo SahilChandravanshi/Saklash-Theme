@@ -5,7 +5,7 @@
 
 A friendly vscode theme which you will ever need! Give it a try!
 
-- [x] Three Themes - (Soothing, GunMetal, Plain)
+- [x] Four Themes - (Soothing, GunMetal, Plain, Oceanic)
 - [x] For long time coding.
 - [x] Friendly highlighting.
 
@@ -14,17 +14,22 @@ A friendly vscode theme which you will ever need! Give it a try!
 - Theme 1 : Saklash Theme (Soothing)
 
 <p align="center">
-  <img alt="saklash-theme(soothing)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/SoothingPrev.png">
+  <img alt="saklash-theme(soothing)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/soothinG.png">
 </p>
 
 - Theme 2 : Saklash Theme (GunMetal)
 <p align="center">
-  <img alt="saklash-theme(GunMetal)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/GunMetalPrev.png">
+  <img alt="saklash-theme(GunMetal)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/gunmetaL.png">
 </p>
 
 - Theme 3 : Saklash Theme (Plain)
 <p align="center">
-  <img alt="saklash-theme(Plain)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/PlainPrev.png">
+  <img alt="saklash-theme(Plain)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/plaiN.png">
+</p>
+
+- Theme 4 : Saklash Theme (Oceanic)
+<p align="center">
+  <img alt="saklash-theme(Oceanic)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/oceaniC.png">
 </p>
 
 ## Install
@@ -33,7 +38,7 @@ A friendly vscode theme which you will ever need! Give it a try!
 - Search for Saklash-Theme
 - Click Install
 - Click Reload (If asked!)
-- File > Preferences > Color Theme > Saklash Theme (Plain) or Saklash Theme (Soothing) or Saklash Theme (GunMetal)
+- File > Preferences > Color Theme > Saklash Theme (Plain) or Saklash Theme (Soothing) or Saklash Theme (GunMetal) or Saklash Theme (Oceanic)
 
 ## In Preview
 
