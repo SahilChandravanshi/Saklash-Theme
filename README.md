@@ -14,22 +14,22 @@ A friendly vscode theme which you will ever need! Give it a try!
 - Theme 1 : Saklash Theme (Soothing)
 
 <p align="center">
-  <img alt="saklash-theme(soothing)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/soothinG.png">
+  <img alt="saklash-theme(soothing)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/soothingSaklash.png">
 </p>
 
 - Theme 2 : Saklash Theme (GunMetal)
 <p align="center">
-  <img alt="saklash-theme(GunMetal)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/gunmetaL.png">
+  <img alt="saklash-theme(GunMetal)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/gunmetalSaklash.png">
 </p>
 
 - Theme 3 : Saklash Theme (Plain)
 <p align="center">
-  <img alt="saklash-theme(Plain)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/plaiN.png">
+  <img alt="saklash-theme(Plain)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/plainSaklash.png">
 </p>
 
 - Theme 4 : Saklash Theme (Oceanic)
 <p align="center">
-  <img alt="saklash-theme(Oceanic)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/oceaniC.png">
+  <img alt="saklash-theme(Oceanic)-snap" width="70%" src="https://raw.githubusercontent.com/SahilChandravanshi/Saklash-Theme/main/Preview%20Images/oceanicSaklash.png">
 </p>
 
 ## Install
