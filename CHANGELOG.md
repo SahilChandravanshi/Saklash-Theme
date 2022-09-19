@@ -2,6 +2,11 @@
 
 All notable changes to the "Saklash-Theme" extension will be documented here. 
 
+## 2.1.0
+
+- Saklash Theme colors made better
+- New colors added
+
 ## 2.0.1
 
 - Saklash Theme (Plain) text section color modified
