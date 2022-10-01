@@ -63,7 +63,7 @@
 		"sideBarSectionHeader.foreground": "#999",
 		"sideBarTitle.foreground": "#999",
 
-		"scrollbar.shadow": "#141414",
+    "editorOverviewRuler.border": "#1f2023",
 
 		// statusBar
 		"statusBar.background": "#1f2023",
@@ -75,7 +75,7 @@
 		"statusBar.noFolderForeground": "#bcb28d",
 
 		// tab
-		"tab.activeBackground": "#1c1d20",
+		"tab.activeBackground": "#1f2023",
 		"tab.activeForeground": "#bcb28d",
 		"tab.inactiveBackground": "#1f2023",
 		"tab.activeBorder": "#E6844F",
