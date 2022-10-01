@@ -2,6 +2,11 @@
 
 All notable changes to the "Saklash-Theme" extension will be documented here. 
 
+## 2.1.1
+
+- Modern tabs
+- Even Colors
+
 ## 2.1.0
 
 - Saklash Theme colors made better

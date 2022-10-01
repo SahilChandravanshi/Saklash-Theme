@@ -7,7 +7,7 @@
 	"author": {
 		"name": "Sahil Chandravanshi"
 	},
-	"version": "2.1.0",
+	"version": "2.1.1",
 	"engines": {
 		"vscode": "^1.62.0"
 	},
